@@ -1,0 +1,199 @@
+abstract: "Big data are large volumes of digital data that can be collected from disparate\
+  \ sources and are challenging to analyze. These data are often described with the\
+  \ five \u201CVs\u201D: volume, velocity, variety, veracity, and value. Perioperative\
+  \ nurses contribute to big data through documentation in the electronic health record\
+  \ during routine surgical care, and these data have implications for clinical decision\
+  \ making, administrative decisions, quality improvement, and big data science. This\
+  \ article explores methods to improve the quality of perioperative nursing data\
+  \ and provides examples of how these data can be combined with broader nursing data\
+  \ for quality improvement. We also discuss a national action plan for nursing knowledge\
+  \ and big data science and how perioperative nurses can engage in collaborative\
+  \ actions to transform health care. Standardized perioperative nursing data has\
+  \ the potential to affect care far beyond the original patient."
+author: Bonnie L. Westra and Jessica J. Peterson
+categories: Medical and Surgical Nursing (Q2)
+citable_docs._(3years): 475.0
+cites_/_doc._(2years): 25.0
+country: United States
+coverage: 1963-2020
+doi: 10.1016/j.aorn.2016.07.009
+eigenfactor_score: 0.0013
+h_index: 43.0
+isbn: .nan
+issn: 00012092
+issn1: '18780369'
+issn2: 00012092
+issn3: '18780369'
+jcr_value: 0.676
+keywords: big data, perioperative nursing, quality care, nursing knowledge, nursing
+  informatics
+publisher_x: John Wiley &amp; Sons Inc.
+publisher_y: .nan
+ref._/_doc.: 855.0
+region: Northern America
+scimago_value: 222.0
+sjr_best_quartile: Q2
+sourceid: 27052.0
+title_bib: Big data and perioperative nursing
+title_csv: Aorn journal
+total_cites: 1553.0
+total_cites_(3years): 276.0
+total_docs._(2020): 288.0
+total_docs._(3years): 682.0
+total_refs.: 2461.0
+type: journal
+type_publication: article
+year: 2016
+---
+abstract: "In the face of green energy initiatives and progressively increasing shares\
+  \ of more energy-efficient buildings, there is a pressing need to transform district\
+  \ heating towards low-temperature district heating. The substantially lowered supply\
+  \ temperature of low-temperature district heating broadens the opportunities and\
+  \ challenges to integrate distributed renewable energy, which requires enhancement\
+  \ on intelligent heating load prediction. Meanwhile, to fulfill the temperature\
+  \ requirements for domestic hot water and space heating, separate energy conversion\
+  \ units on user-side, such as building-sized boosting heat pumps shall be implemented\
+  \ to upgrade the temperature level of the low-temperature district heating network.\
+  \ This study conducted hybrid heating load prediction methods with long-term and\
+  \ short-term prediction, and the main work consisted of four steps: (1) acquisition\
+  \ and processing of district heating data of 20 district heating supplied nursing\
+  \ homes in the Nordic climate (2016\u20132019); (2) long-term district heating load\
+  \ prediction through linear regression, energy signature curve in hourly resolution,\
+  \ providing an overall view and boundary conditions for the unit sizing; (3) short-term\
+  \ district heating load prediction through two Artificial Neural Network models,\
+  \ f72 and g120, with different prediction input parameters; (4) evaluation of the\
+  \ predicted load profiles based on the measured data. Although the three prediction\
+  \ models met the quality criteria, it was found that including the historical hourly\
+  \ heating loads as the input to the forecasting model enhanced the prediction quality,\
+  \ especially for the peak load and low-mild heating season. Furthermore, a possible\
+  \ application of the heating load profiles was proposed by integrating two building-sized\
+  \ heat pumps in low-temperature district heating, which may be a promising heat\
+  \ supply method in low-temperature district heating."
+author: "Yiyu Ding and Thomas Ohlson Timoudas and Qian Wang and Shuqin Chen and Helge\
+  \ Bratteb\xF8 and Natasa Nord"
+categories: Energy Engineering and Power Technology (Q1); Fuel Technology (Q1); Nuclear
+  Energy and Engineering (Q1); Renewable Energy, Sustainability and the Environment
+  (Q1)
+citable_docs._(3years): 3458.0
+cites_/_doc._(2years): 1003.0
+country: United Kingdom
+coverage: 1979-2020
+doi: 10.1016/j.enconman.2022.116163
+eigenfactor_score: 0.0823
+h_index: 192.0
+isbn: .nan
+issn: 01968904
+issn1: 01968904
+issn2: 01968904
+issn3: 01968904
+jcr_value: 9.709
+keywords: Nursing homes, District heating load prediction, Linear regression, Artificial
+  neural network, Low-temperature district heating
+publisher_x: Elsevier Ltd.
+publisher_y: .nan
+ref._/_doc.: 5438.0
+region: Western Europe
+scimago_value: 2743.0
+sjr_best_quartile: Q1
+sourceid: 29372.0
+title_bib: 'A study on data-driven hybrid heating load prediction methods in low-temperature
+  district heating: an example for nursing homes in nordic countries'
+title_csv: Energy conversion and management
+total_cites: 80377.0
+total_cites_(3years): 35051.0
+total_docs._(2020): 1125.0
+total_docs._(3years): 3479.0
+total_refs.: 61183.0
+type: journal
+type_publication: article
+year: 2022
+---
+abstract: A gap in informatics expertise amongst nursing students, practising staff
+  and faculty has been noted globally, which reduces the potential for nurses to utilise
+  technology to enhance patient care. National nursing education strategies and recommendations
+  from professional associations have identified digital health as an area that needs
+  investment. This case study describes how health informatics is being integrated
+  into a Bachelor of Nursing programme in the United Kingdom. An international collaboration
+  with a US-UK Fulbright Specialist Scholar enabled individual learning units corresponding
+  to key health informatics competencies to be designed and incorporated into a pedagogic
+  framework grounded in the spiral learning approach. This approach is proposed as
+  one way to integrate informatics into nursing education, so students can become
+  competent clinicians that are able to deliver technology enabled care in the health
+  service.
+author: Siobhan O'Connor and Elizabeth LaRue
+categories: Education (Q1); Nursing (miscellaneous) (Q1); Medicine (miscellaneous)
+  (Q2)
+citable_docs._(3years): 433.0
+cites_/_doc._(2years): 224.0
+country: United Kingdom
+coverage: 2001-2020
+doi: 10.1016/j.nepr.2020.102934
+eigenfactor_score: 0.00456
+h_index: 47.0
+isbn: .nan
+issn: '14715953'
+issn1: '18735223'
+issn2: '14715953'
+issn3: '18735223'
+jcr_value: 2.281
+keywords: Nursing education, Informatics, Technology, Digital health
+publisher_x: Churchill Livingstone
+publisher_y: .nan
+ref._/_doc.: 3619.0
+region: Western Europe
+scimago_value: 924.0
+sjr_best_quartile: Q1
+sourceid: 28805.0
+title_bib: 'Integrating informatics into undergraduate nursing education: a case study
+  using a spiral learning approach'
+title_csv: Nurse education in practice
+total_cites: 3334.0
+total_cites_(3years): 1193.0
+total_docs._(2020): 193.0
+total_docs._(3years): 486.0
+total_refs.: 6984.0
+type: journal
+type_publication: article
+year: 2021
+---
+abstract: Based on the concept and research status of big data, we analyze and examine
+  the importance of constructing the knowledge system of nursing science for the development
+  of the nursing discipline in the context of big data and propose that it is necessary
+  to establish big data centers for nursing science to share resources, unify language
+  standards, improve professional nursing databases, and establish a knowledge system
+  structure.
+author: Ruifang Zhu and Shifan Han and Yanbing Su and Chichen Zhang and Qi Yu and
+  Zhiguang Duan
+categories: Nursing (miscellaneous) (Q1)
+citable_docs._(3years): 199.0
+cites_/_doc._(2years): 262.0
+country: Singapore
+coverage: 2014-2020
+doi: 10.1016/j.ijnss.2019.03.001
+eigenfactor_score: .nan
+h_index: 16.0
+isbn: .nan
+issn: '23520132'
+issn1: '23520132'
+issn2: '23520132'
+issn3: '23520132'
+jcr_value: .nan
+keywords: Artificial intelligence, Data mining, Knowledge bases, Nursing
+publisher_x: Elsevier (Singapore) Pte Ltd
+publisher_y: .nan
+ref._/_doc.: 3280.0
+region: Asiatic Region
+scimago_value: 703.0
+sjr_best_quartile: Q1
+sourceid: 21100469749.0
+title_bib: 'The application of big data and the development of nursing science: a
+  discussion paper'
+title_csv: International journal of nursing sciences
+total_cites: .nan
+total_cites_(3years): 526.0
+total_docs._(2020): 87.0
+total_docs._(3years): 229.0
+total_refs.: 2854.0
+type: journal
+type_publication: article
+year: 2019
