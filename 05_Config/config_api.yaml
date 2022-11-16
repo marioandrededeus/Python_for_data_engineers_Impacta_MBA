@@ -1,0 +1,15 @@
+apikey: 3jk2p7za5jtd7a39gwknygvk
+format: json #result data format
+max_records: 1000
+start_record: 1
+sort_order: asc #[asc, desc]
+sort_field: article
+field_to_search1: article_title #[article_title, meta_data, abstract, publication_year, content_type, doi]
+search_for1: big+data&data+quality
+field_to_search2: None #[article_title, meta_data, abstract, publication_year, content_type, doi]
+search_for2: None
+
+
+
+
+

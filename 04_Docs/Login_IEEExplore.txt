@@ -1,0 +1,19 @@
+IEEE Xplore - Login
+mariodedeus.engenharia@gmail.com
+padrao antigo initial upper
+
+IEEE Xplore API Portal
+user: mario.deus
+mario.deus@aluno.faculdadeimpacta.com.br
+padrao antigo, *, capitalize
+
+_name of your application: i3e_api_impacta_school
+
+_description: This api is part of a project of Faculdade Impacta, in a MBA course in Data Engineering, and aims to conduct research articles registered on the IEEE site using the Python programming language, persisting the results in a database of type sqlite, and finally presenting a summary of the results to the final user using a graphical user interface to be developed in the Streamlit framework.
+
+Key Rate Limits
+10	Calls per second
+200	Calls per day
+
+Key:
+3jk2p7za5jtd7a39gwknygvk

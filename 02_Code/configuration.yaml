@@ -1,9 +1,0 @@
-##options of columns to filter: ['title_csv', 'title_bib','keywords', 'abstract', 'year', 'type_publication', 'doi', 'jcr_value', 'scimago_value']
-filter_atributes:
-- year
-filter_term:
-- 2020
-output_extensions:
-- csv
-- json
-- yaml

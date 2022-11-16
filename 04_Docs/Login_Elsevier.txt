@@ -1,0 +1,8 @@
+https://account.elsevier.com/auth
+
+mario.deus@aluno.faculdadeimpacta.com.br
+padrao danca antigo capitalized
+
+https://dev.elsevier.com/apikey/create
+api_label: elsevier_api_impacta_school
+key: 537ab7f53c6732f2e1569d4ba6d19cf0
