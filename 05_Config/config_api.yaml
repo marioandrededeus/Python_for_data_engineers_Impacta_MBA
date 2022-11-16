@@ -5,7 +5,7 @@ start_record: 1
 sort_order: asc #[asc, desc]
 sort_field: article
 field_to_search1: article_title #[article_title, meta_data, abstract, publication_year, content_type, doi]
-search_for1: big+data&data+quality
+search_for1: big+data+quality
 field_to_search2: None #[article_title, meta_data, abstract, publication_year, content_type, doi]
 search_for2: None
 
