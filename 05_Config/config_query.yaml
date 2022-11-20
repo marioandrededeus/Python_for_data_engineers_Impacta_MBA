@@ -1,7 +1,7 @@
 #CONFIG_QUERY
 
 #datasources to query
-call_api_ieee: True #[True, False]
+call_api_ieee: False #[True, False]
 
 #api_ieee params:
 max_api_pagination: 2
@@ -29,3 +29,4 @@ query_ieee: SELECT *
 output_extensions:
 - json
 - csv
+- yaml
