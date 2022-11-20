@@ -1,0 +1,31 @@
+#CONFIG_QUERY
+
+#datasources to query
+call_api_ieee: True #[True, False]
+
+#api_ieee params:
+max_api_pagination: 2
+api_ieee_field_search: article_title  #[article_title, meta_data, abstract, publication_year, content_type, doi] 
+api_ieee_string_search: big+data
+
+#sql queries
+use_query_sql_bib_csv:  True #[True, False]
+use_query_sql_ieee:     True #[True, False]
+
+#bib_csv_fields
+#'abstract', 'author', 'country', 'doi', 'isbn', 'jcr_value', 'keywords', 'scimago_value', 'title_csv', 'title_bib', 'year']
+query_bib_csv:  SELECT * 
+                FROM bib_csv 
+                WHERE abstract LIKE '%big data%'
+                OR abstract LIKE '%quality%'
+
+#ieee_fields ['title';'abstract';'publication_year';'authors';'doi';'content_type';'issn';'isbn'] 
+query_ieee: SELECT * 
+            FROM api_ieee 
+            WHERE  abstract LIKE '%big data%'
+            OR abstract LIKE '%quality%'
+
+#export format
+output_extensions:
+- json
+- csv
