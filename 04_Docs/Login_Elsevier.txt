@@ -6,3 +6,18 @@ padrao danca antigo capitalized
 https://dev.elsevier.com/apikey/create
 api_label: elsevier_api_impacta_school
 key: 537ab7f53c6732f2e1569d4ba6d19cf0
+
+
+
+fields = 'position id doi title authors authors_auid authors_affiliationid '\
+             'sourcetitle publicationyear coverDate volume issue first last '\
+             'citedbycount type text fulltext'
+ref = namedtuple('Reference', fields)
+fulltext1 = 'Implementing Reproducible Research; Stodden, V.; Leisch, '\
+                'F.; Peng, R. D., Eds., Chapman and Hall/CRC: London, 2014.'
+expected1 = ref(position='22', id='85055586929', doi=None, title=None,
+        authors='Stodden, V.; Leisch, F.; Peng, R.D.', authors_auid=None,
+        authors_affiliationid=None, fulltext=fulltext1, coverDate=None,
+        sourcetitle='Implementing Reproducible Research', type=None,
+        publicationyear='2014', volume=None, issue=None, first=None,
+        last=None, citedbycount=None, text='Eds. Chapman and Hall/CRC: London.')

@@ -1,12 +1,11 @@
 #CONFIG_API
 
-apikey: 3jk2p7za5jtd7a39gwknygvk
-format: json #result data format
+#IEEE
+apikey_ieee: 3jk2p7za5jtd7a39gwknygvk
+format: json #output format for API_IEEE request
 max_records: 1000
 sort_order: asc #[asc, desc]
 sort_field: article
 
-
-
-
-
+#ScienceDirect
+apikey_elsevier: 7f59af901d2d86f78a1fd60c1bf9426a
