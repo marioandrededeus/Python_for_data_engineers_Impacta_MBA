@@ -1,0 +1,18 @@
+Terminal:
+
+cd "flask_api.py directory"
+
+flask --app flask_api run 	#to run the flask server
+
+############################################################
+To consume the API:
+
+cd "teste_request.py"
+
+python teste_request.py           #don´t forget to adjust the params dict in the teste_request.py
+
+OR
+
+open teste_request.ipynb in order to consume each endpoint separately...
+
+

@@ -1,0 +1,16 @@
+
+Nome do grupo: "100 Vies"
+Numero do Grupo: 3
+Aula 4 - Entrega Final
+
+INTEGRANTES:
+Mario Andre de Deus
+Mayara Cristina Soares
+Felipe Tozetto Taveiro
+Ricardo felipe Gomes Faria
+Jean Lucas Araujo dos Anjos Moraes
+
+REPOSITÓRIO: (branch master)
+https://github.com/marioandrededeus/Python_for_data_engineers_Impacta_MBA.git
+
+Hash do Commit 20221207:

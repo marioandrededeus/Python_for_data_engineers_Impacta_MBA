@@ -1,0 +1,37 @@
+#CONFIG_QUERY
+
+#api_ieee params:
+call_api_ieee: False #[True, False]
+max_api_ieee_pagination: 1
+api_ieee_field_search: article_title  #[article_title, meta_data, abstract, publication_year, content_type, doi] 
+api_ieee_string_search: big+data
+
+#api_elsevier params:
+call_api_elsevier: False #[True, False]
+api_elsevier_string_search: big+data
+
+#sql queries
+use_query_sql_bib_csv:  False #[True, False]
+use_query_sql_ieee:     True #[True, False]
+use_query_sql_elsevier: True #[True, False]
+
+
+#bib_csv_fields ['abstract', 'author', 'country', 'doi', 'isbn', 'jcr_value', 'keywords', 'scimago_value', 'title_csv', 'title_bib', 'year']
+query_bib_csv:  SELECT * 
+                FROM bib_csv 
+                WHERE abstract LIKE '%big data%'
+                OR abstract LIKE '%quality%'
+
+#ieee_fields ['search_id', 'title';'abstract';'publication_year';'authors';'doi';'content_type';'issn';'isbn'] 
+query_ieee: SELECT * 
+            FROM api_ieee 
+            WHERE search_id LIKE '%20221205%'
+            #WHERE title LIKE '%big data%'
+            #OR abstract LIKE '%quality%'
+
+#elsevier_fields ['search_id', 'doi', 'title', 'publisher', 'publication_year', 'authors'] 
+query_elsevier: SELECT * 
+            FROM api_elsevier 
+            WHERE search_id LIKE '%20221205%'
+            #WHERE title LIKE '%big data%'
+            #OR title LIKE '%quality%'
